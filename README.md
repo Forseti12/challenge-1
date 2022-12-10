@@ -4,4 +4,4 @@ This is the site we were told to help here is a link and pic of the screen when 
 
 https://forseti12.github.io/challenge-1/
 
-![alt text] (./assets/images/Horiseon-page-loaded.png)
+![alt text] (assets/images/Horiseon-page-loaded.png)
